@@ -131,10 +131,10 @@ export default function ChatPage() {
                 }`}
               >
                 <div
-                  className={`px-4 py-2 rounded-2xl max-w-[70%] shadow ${
+                  className={`px-4 py-2 rounded-2xl shadow ${
                     msg.role === "user"
-                      ? "bg-[#F76B15] text-white rounded-br-none"
-                      : "bg-gray-100 text-gray-900 rounded-bl-none"
+                      ? "bg-[#F76B15] text-white rounded-br-none max-w-[70%] "
+                      : "bg-gray-100 text-gray-900 rounded-bl-none max-w-full sm:max-w-[70%] "
                   }`}
                 >
                   {msg.role === "user" ? (
