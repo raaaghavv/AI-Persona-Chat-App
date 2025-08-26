@@ -3,7 +3,7 @@ export const personas = [
     id: "hitesh_chaudhary",
     name: "Hitesh Chaudhary",
     role: "Tech Mentor",
-    image: "https://avatars.githubusercontent.com/u/11613311?v=4",
+    image: "/hitesh_sir.png",
     oneLiner: "Codes only with Chai!",
     sampleA: "Hanji, swagat hai aapka.",
     suggestedQuestions: [
@@ -224,8 +224,7 @@ export const personas = [
     id: "piyush_garg",
     name: "Piyush Garg",
     role: "Tech Mentor",
-    image:
-      "https://www.piyushgarg.dev/_next/image?url=%2Fimages%2Favatar.png&w=1080&q=75",
+    image: "/piyush_sir.webp",
     oneLiner: "Your cute tech mentor",
     sampleA: "Hello everyone! welcome to another exciting session.",
     suggestedQuestions: [
@@ -1323,7 +1322,7 @@ YouTube पे आपको फिर साइन अप करना पड़त
     id: "manu_arora",
     name: "Manu Arora",
     role: "Tech Mentor",
-    image: "https://manuarora.in/_next/image?url=%2Favatar-new.png&w=2048&q=75",
+    image: "/manu_arora.webp",
     oneLiner: "Your UI/UX Guru",
     sampleA: "Kya haal chal hai sabke.",
     suggestedQuestions: [
@@ -1345,8 +1344,7 @@ you are manu arora founder of aceternity.ui where you build and sell ui componen
     id: "mogambo",
     name: "Mogambo",
     role: "Villain",
-    image:
-      "https://static.wikia.nocookie.net/villains/images/8/8b/Mogambo_from_Mr._India.webp/revision/latest?cb=20250702133723",
+    image: "/mogambo.webp",
     oneLiner: "Doesn't need to explain himself.",
     sampleA: "Mogambo khush hua.",
     suggestedQuestions: [
@@ -1391,8 +1389,7 @@ Aur jo fail hua… Mogambo naraz ho gaya!”
     id: "acp_pradyuman",
     name: "ACP Pradyuman",
     role: "CID Officer",
-    image:
-      "https://img.etimg.com/thumb/width-1200,height-900,imgsize-26810,resizemode-75,msid-120035653/magazines/panache/cids-acp-pradyuman-shivaji-satam-says-producers-didnt-tell-him-his-role-would-be-killed-off-had-no-clue.jpg",
+    image: "/acp_pradyuman.webp",
     oneLiner: "Kuch toh gadbad hai, Daya!",
     sampleA: "Daya, darwaza tod do!",
     suggestedQuestions: [
@@ -1412,8 +1409,7 @@ Aur jo fail hua… Mogambo naraz ho gaya!”
     id: "carry_minati",
     name: "CarryMinati",
     role: "Roast King",
-    image:
-      "https://img.mensxp.com/media/content/2020/May/Kunal-Kamras-CarryMinati-Roast-Gets-15-Mil-Dislikes1200_5ed3405943bf4.jpeg",
+    image: "/carryMinati.jpeg",
     oneLiner: "Arre bhai, kya kar raha hai tu?",
     sampleA: "Bhai tumse na ho paayega!",
     suggestedQuestions: [
@@ -1432,8 +1428,7 @@ Aur jo fail hua… Mogambo naraz ho gaya!”
     id: "rajat_sharma",
     name: "Rajat Sharma",
     role: "Interviewer",
-    image:
-      "https://storiesofindia.org/wp-content/uploads/2024/03/images-6-1.jpeg",
+    image: "/rajat_sharma.jpeg",
     oneLiner: "Aapki Adalat ka judge.",
     sampleA: "Yeh sawaal logon ke dimaag mein hai, aap kya jawab denge?",
     suggestedQuestions: [
@@ -1452,8 +1447,7 @@ Aur jo fail hua… Mogambo naraz ho gaya!”
     id: "ashneer_grover",
     name: "Ashneer Grover",
     role: "Shark",
-    image:
-      "https://www.hindustantimes.com/ht-img/img/2023/07/19/1600x900/Ashneer_Grover_1645449990248_1689753876875.jpg",
+    image: "/ashneer_grover.webp",
     oneLiner: "Yeh sab doglapan hai!",
     sampleA: "Bhai, yeh idea mein paisa nahi daalunga.",
     suggestedQuestions: [
@@ -1472,8 +1466,7 @@ Aur jo fail hua… Mogambo naraz ho gaya!”
     id: "bhuvan_bam",
     name: "Bhuvan Bam",
     role: "Comedian",
-    image:
-      "https://img.mensxp.com/media/content/2018/Sep/bb-ki-vines-fame-bhuvan-bam-is-soon-to-make-his-bollywood-debut-with-plus-minus-740x500-1-1536317633.jpg?w=780&h=528&cc=1",
+    image: "/bhuvan_bam.webp",
     oneLiner: "BB Ki Vines wala swag.",
     sampleA: "Bancho! Kya haal hai re?",
     suggestedQuestions: [
@@ -1518,8 +1511,7 @@ Aur jo fail hua… Mogambo naraz ho gaya!”
     id: "zakir_khan",
     name: "Zakir Khan",
     role: "Stand-up Comedian",
-    image:
-      "https://sosimg.sgp1.cdn.digitaloceanspaces.com/artist-gallery/2190501_1701946294.webp",
+    image: "/zakir_khan.webp",
     oneLiner: "Sakht Launda, par dil se soft.",
     sampleA: "Sakht launda kabhi pighalta nahi.",
     suggestedQuestions: [
