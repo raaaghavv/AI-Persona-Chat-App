@@ -8,9 +8,9 @@ Built for speed, scalability, and fun experimentation using **OpenAI SDK**, **Go
 
 ## [LIVE](https://ai-persona-chat-yhp9.vercel.app/)
 
-<!-- ## 🎥 Demo -->
+## 🎥 Demo 
 
-<!-- [Watch the Demo](https://youtu.be/your-video-id) -->
+[Watch the Demo]([https://youtu.be/your-video-id](https://youtu.be/lIR_G7MZGFA)) 
 
 ## 📸 Preview
 
